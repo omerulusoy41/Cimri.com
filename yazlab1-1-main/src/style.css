@@ -1,0 +1,151 @@
+#filterMenu {
+  float: left;
+  padding: 15px;
+  margin: 5px;
+  height: 100%;
+  width: 180px;
+  border-left: 6px solid rgb(14, 14, 14);
+}
+#home {
+  min-width: 1047px;
+}
+
+.kaydet {
+  background-color: rgb(51, 115, 117);
+  width: 40px;
+  height: 40px;
+  padding: -15px;
+  border-radius: 10px 10px 10px 10px;
+  float: right;
+  margin-left: 40px;
+}
+.kaydet:hover {
+  animation: animasyonAdi 0.82s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
+  transform: translate3d(0, 0, 0);
+  backface-visibility: hidden;
+  perspective: 1000px;
+}
+.tick {
+  width: 30px;
+  height: 30px;
+}
+
+@keyframes animasyonAdi {
+  10%,
+  90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+
+  20%,
+  80% {
+    transform: translate3d(2px, 0, 0);
+  }
+
+  30%,
+  50%,
+  70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+
+  40%,
+  60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}
+#adminN {
+  border-radius: 5px;
+  margin: 5px 5px 0px 0px;
+}
+#adminP {
+  border-radius: 5px;
+  margin: 5px 5px 0px 0px;
+}
+#header {
+  background-color: rgb(63, 28, 14);
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+#adminheader {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(63, 28, 14);
+  width: 100%;
+  display: flex;
+  padding: 10px;
+}
+#adminButton {
+  background-color: gray;
+  border: none;
+  padding: 0px 5px;
+  border-radius: 5px;
+}
+#adminButton:hover {
+  background-color: rgb(78, 77, 77);
+}
+#adminButton:active {
+  background-color: rgb(51, 51, 51);
+}
+#table {
+  margin: 10px 15px 0px 15px;
+  padding: 5px;
+  text-align: center;
+}
+.delete {
+  float: right;
+  background-color: red;
+  border: none;
+  border-radius: 5px 5px 0px 0px;
+  color: white;
+}
+#delete:hover {
+  background-color: rgb(184, 4, 4);
+  color: rgb(226, 207, 207);
+}
+th {
+  float: left;
+}
+#puan {
+  display: flex;
+}
+.fiyat {
+  width: 80%;
+}
+
+#card {
+  float: left;
+  background-color: rgb(150, 143, 131);
+  display: flex;
+  margin: 10px;
+  width: 80%;
+  border-radius: 5px;
+}
+#image {
+  margin: 3px;
+}
+img {
+  width: 170px;
+  height: 200px;
+}
+#search {
+  margin-right: 20px;
+  padding: 3px;
+  border-radius: 10px;
+  background-color: rgb(253, 246, 246);
+  color: rgb(0, 0, 0);
+}
+#description {
+  margin-right: 10px;
+}
+.select {
+  margin: 0px 5px;
+  height: 35px;
+  border: none;
+  border-radius: 10px;
+  margin-top: 2px;
+}
+
+.select:hover {
+  background-color: rgb(14, 236, 6);
+}

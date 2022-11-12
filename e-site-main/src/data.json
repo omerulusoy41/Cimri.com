@@ -1,0 +1,120 @@
+{
+  "data": [
+    [
+      {
+        "_id": 1,
+        "modelNo": "undefind",
+        "fiyat": "15000",
+        "puan": "7.5",
+        "IslemciTipi": "undefind",
+        "ram": "undefind",
+        "diskBoyut": "undefind",
+        "diskTuru": "undefind",
+        "inc": "undefind",
+        "marka": "abce",
+        "siteIsmi": "trendyol",
+        "siteLinki": "http://localhost:3000/1",
+        "isletimSistemi": "undefind",
+        "imageLinki": "undefind"
+      },
+      {
+        "_id": 2,
+        "modelNo": "undefind",
+        "fiyat": "12000",
+        "puan": "undefind",
+        "IslemciTipi": "undefind",
+        "ram": "undefind",
+        "diskBoyut": "undefind",
+        "diskTuru": "undefind",
+        "inc": "undefind",
+        "marka": "abc",
+        "siteIsmi": "hepsiburada",
+        "siteLinki": "http://localhost:3000/1",
+        "isletimSistemi": "undefind",
+        "imageLinki": "undefind"
+      },
+      {
+        "_id": 3,
+        "modelNo": "undefind",
+        "fiyat": "13000",
+        "puan": "undefind",
+        "IslemciTipi": "undefind",
+        "ram": "undefind",
+        "diskBoyut": "undefind",
+        "diskTuru": "undefind",
+        "inc": "undefind",
+        "marka": "abc",
+        "siteIsmi": "teknosa",
+        "siteLinki": "http://localhost:3000/1",
+        "isletimSistemi": "undefind",
+        "imageLinki": "undefind"
+      },
+      {
+        "_id": 4,
+        "modelNo": "undefind",
+        "fiyat": "14000",
+        "puan": "undefind",
+        "IslemciTipi": "undefind",
+        "ram": "undefind",
+        "diskBoyut": "undefind",
+        "diskTuru": "undefind",
+        "inc": "undefind",
+        "marka": "abc",
+        "siteIsmi": "vatan",
+        "siteLinki": "http://localhost:3000/1",
+        "isletimSistemi": "undefind",
+        "imageLinki": "undefind"
+      }
+    ],
+    [
+      {
+        "_id": 5,
+        "modelNo": "undefind",
+        "fiyat": "10000",
+        "puan": "undefind",
+        "IslemciTipi": "undefind",
+        "ram": "undefind",
+        "diskBoyut": "undefind",
+        "diskTuru": "undefind",
+        "inc": "undefind",
+        "marka": "abc",
+        "siteIsmi": "OFBEG",
+        "siteLinki": "http://localhost:3000/1",
+        "isletimSistemi": "undefind",
+        "imageLinki": "undefind"
+      },
+      {
+        "_id": 6,
+        "modelNo": "undefind",
+        "fiyat": "12000",
+        "puan": "undefind",
+        "IslemciTipi": "undefind",
+        "ram": "undefind",
+        "diskBoyut": "undefind",
+        "diskTuru": "undefind",
+        "inc": "undefind",
+        "marka": "abc",
+        "siteIsmi": "vatan",
+        "siteLinki": "http://localhost:3000/1",
+        "isletimSistemi": "undefind",
+        "imageLinki": "undefind"
+      },
+      {
+        "_id": 7,
+        "modelNo": "undefind",
+        "fiyat": "11000",
+        "puan": "undefind",
+        "IslemciTipi": "undefind",
+        "ram": "undefind",
+        "diskBoyut": "undefind",
+        "diskTuru": "undefind",
+        "inc": "undefind",
+        "marka": "abc",
+        "siteIsmi": "teknosa",
+        "siteLinki": "http://localhost:3000/1",
+        "isletimSistemi": "undefind",
+        "imageLinki": "undefind"
+      }
+    ]
+  ]
+}
